@@ -102,3 +102,6 @@ python main.py train
 python main.py generate
 ```
 
+![结果图像](https://github.com/buptzhang0414/CartoonGan/blob/master/result.png)
+
+这是训练200代之后生成的结果图，可以看到基本的卡通头像轮廓已经有了，但是由于网络结构比较简单，所以生成的质量不是很高，这个demo仅仅是为了演示GAN的神奇生成作用。
